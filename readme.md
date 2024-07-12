@@ -50,7 +50,7 @@ Add files to staging area
 git add -A
 ```
 
-Commit staged files
+Commit Staged files
 ```
 git commit -m "Initial Commit"
 ```
