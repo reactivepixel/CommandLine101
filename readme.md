@@ -27,3 +27,36 @@ C:\Users\user\Documents\myfolder
 mkdir
 cd
 ```
+
+# Git Commands
+
+Initialize the git repository
+```
+git init
+```
+
+Add a remote to Github
+```
+git remote add origin https://xxxxxxx
+```
+
+Status?
+```
+git status
+``` 
+
+Add files to staging area
+```
+git add -A
+```
+
+Commit staged files
+```
+git commit -m "Initial Commit"
+```
+
+Push to Github
+
+```
+git push origin master
+```
