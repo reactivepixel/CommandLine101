@@ -40,7 +40,7 @@ Add a remote to Github
 git remote add origin https://xxxxxxx
 ```
 
-Status?
+Show Git Status
 ```
 git status
 ``` 
